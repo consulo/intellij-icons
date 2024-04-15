@@ -1,0 +1,3 @@
+https://github.com/JetBrains/ui/issues/27
+
+License Apache 2, except brands

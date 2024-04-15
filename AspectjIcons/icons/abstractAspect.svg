@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <rect id="abstractaspect-a" width="8" height="14" x="4" y="1"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#9AA7B0" fill-opacity=".8" d="M3 3.1055C1.764 4.3685 1 6.0935 1 8.0005 1 9.9065 1.764 11.6315 3 12.8945L3 3.1055zM13 3.1055L13 12.8945C14.236 11.6315 15 9.9065 15 8.0005 15 6.0935 14.236 4.3675 13 3.1055"/>
+    <mask id="abstractaspect-b" fill="#fff">
+      <use xlink:href="#abstractaspect-a"/>
+    </mask>
+    <g fill="#40B6E0" fill-opacity=".6" mask="url(#abstractaspect-b)">
+      <path d="M14,7 C14,10.866 10.866,14 7,14 C3.134,14 0,10.866 0,7 C0,3.134 3.134,0 7,0 C10.866,0 14,3.134 14,7" transform="translate(1 1)"/>
+    </g>
+    <g fill="#231F20" fill-opacity=".7" mask="url(#abstractaspect-b)">
+      <path d="M2.9834,1.2 L4.1,4 L1.8964,4 L2.9834,1.2 Z M4.8154,5.9999 L6.0004,5.9999 L3.4464,-0.0001 L2.5534,-0.0001 L0.0004,5.9999 L1.1514,5.9999 L1.5654,4.9999 L4.4064,4.9999 L4.8154,5.9999 Z" transform="translate(5 5)"/>
+    </g>
+  </g>
+</svg>

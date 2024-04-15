@@ -1,0 +1,32 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="a" x1=".5" y1="0" x2=".5" y2="1">
+    <stop offset="0" stop-color="#1B558F"/>
+    <stop offset="1" stop-color="#000D4E"/>
+  </linearGradient>
+  <path fill-rule="evenodd" d="M5.5859999999999985,2.0000008178710971L0,7.5860008178710956L0,8.4140008178710914L5.5859999999999985,14.000000817871097L6.4140000000000015,14.000000817871097L12,8.4140008178710914L12,7.5860008178710956L6.4140000000000015,2.0000008178710971L5.5859999999999985,2.0000008178710971Z" fill="url(#a)"/>
+  <linearGradient id="b" x1=".5" y1="0" x2=".5" y2="1">
+    <stop offset="0" stop-color="#E6FDFF"/>
+    <stop offset="1" stop-color="#96E2FF"/>
+  </linearGradient>
+  <path fill-rule="evenodd" d="M6,3.0000008178710971L1,8.0000008178710971L6,13.000000817871097L11,8.0000008178710971L6,3.0000008178710971Z" fill="url(#b)"/>
+  <linearGradient id="c" x1=".5" y1="0" x2=".5" y2="1">
+    <stop offset="0" stop-color="#60B0FF"/>
+    <stop offset="1" stop-color="#008EE6"/>
+  </linearGradient>
+  <path fill-rule="evenodd" d="M2.4140000000000015,8.0000008178710971L6,4.4140008178710914L9.5859999999999985,8.0000008178710971L6,11.586000817871096L2.4140000000000015,8.0000008178710971Z" fill="url(#c)"/>
+  <linearGradient id="d" x1=".5" y1="0" x2=".5" y2="1">
+    <stop offset="0" stop-color="#720772"/>
+    <stop offset="1" stop-color="#530953"/>
+  </linearGradient>
+  <path fill-rule="evenodd" d="M9.5859999999999985,2.0000008178710971L4,7.5860008178710956L4,8.4140008178710914L9.5859999999999985,14.000000817871097L10.414000000000001,14.000000817871097L16,8.4140008178710914L16,7.5860008178710956L10.414000000000001,2.0000008178710971L9.5859999999999985,2.0000008178710971Z" fill="url(#d)"/>
+  <linearGradient id="e" x1=".5" y1="0" x2=".5" y2="1">
+    <stop offset="0" stop-color="#F7CCFF"/>
+    <stop offset="1" stop-color="#FD81FF"/>
+  </linearGradient>
+  <path fill-rule="evenodd" d="M10,3.0000008178710971L5,8.0000008178710971L10,13.000000817871097L15,8.0000008178710971L10,3.0000008178710971Z" fill="url(#e)"/>
+  <linearGradient id="f" x1=".5" y1="0" x2=".5" y2="1">
+    <stop offset="0" stop-color="#720772"/>
+    <stop offset="1" stop-color="#530953"/>
+  </linearGradient>
+  <path fill-rule="evenodd" d="M7.828000000000003,8.0000008178710971L10,5.8280008178710929L12.171999999999997,8.0000008178710971L10,10.172000817871094L7.828000000000003,8.0000008178710971Z" fill="url(#f)"/>
+</svg>

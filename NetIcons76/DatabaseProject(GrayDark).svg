@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+  <path d="M16,14H2V1H16Z" fill="#242424" fill-rule="evenodd"/>
+  <path d="M3,13H15V5H3Z" fill="#c4c4c4" fill-rule="evenodd"/>
+  <path d="M14,12H4V5H14Z" fill="#282828" fill-rule="evenodd"/>
+  <path d="M15,5H3V2H15Z" fill="#c4c4c4" fill-rule="evenodd"/>
+  <path d="M5.5,16C2.767,16,0,14.97,0,13V9C0,7.03,2.767,6,5.5,6S11,7.03,11,9v4C11,14.97,8.233,16,5.5,16Z" fill="#252525" fill-rule="evenodd"/>
+  <ellipse cx="5.5" cy="9" rx="4.5" ry="2" fill="#43c2ff"/>
+  <path d="M5.5,12A7.838,7.838,0,0,1,1,10.8V11c0,1.105,2.015,2,4.5,2s4.5-.895,4.5-2v-.2A7.838,7.838,0,0,1,5.5,12Z" fill="#43c2ff" fill-rule="evenodd"/>
+  <path d="M5.5,14A7.838,7.838,0,0,1,1,12.8V13c0,1.105,2.015,2,4.5,2s4.5-.895,4.5-2v-.2A7.838,7.838,0,0,1,5.5,14Z" fill="#43c2ff" fill-rule="evenodd"/>
+</svg>

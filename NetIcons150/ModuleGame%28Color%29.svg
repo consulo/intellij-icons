@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <defs>
+    <linearGradient id="b" x1="8" y1=".899" x2="8" y2="12.001" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#576a80"/>
+      <stop offset="1" stop-color="#2d3742"/>
+    </linearGradient>
+    <linearGradient id="a" x1="10.5" y1="1.996" x2="10.5" y2="3.507" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8f4ff"/>
+      <stop offset="1" stop-color="#87a0bc"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8" y1="3.981" x2="8" y2="11.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#def5ff"/>
+      <stop offset="1" stop-color="#9cabbc"/>
+    </linearGradient>
+    <linearGradient id="d" x1="5.5" y1="1.996" x2="5.5" y2="3.507" xlink:href="#a"/>
+    <linearGradient id="e" x1="4.5" y1="7" x2="4.5" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#395a84"/>
+      <stop offset="1" stop-color="#273d5a"/>
+    </linearGradient>
+    <linearGradient id="f" x1="4.5" y1="8" x2="4.5" y2="15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c6e9ff"/>
+      <stop offset="1" stop-color="#84b4ff"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#b)" d="M1 12L1 3 3 3 3 1 13 1 13 3 15 3 15 12 1 12z"/>
+  <path fill="url(#a)" d="M9 2H12V3.5H9z"/>
+  <path fill="url(#c)" d="M9 4L7 4 4 4 2 4 2 11 14 11 14 4 12 4 9 4z"/>
+  <path fill="url(#d)" d="M4 2H7V3.5H4z"/>
+  <circle cx="4.5" cy="11.5" r="4.5" fill="url(#e)"/>
+  <path fill="url(#f)" d="M8 10L6 10 6 8 3 8 3 10 1 10 1 13 3 13 3 15 6 15 6 13 8 13 8 10z"/>
+  <circle cx="4.5" cy="9.5" r=".5" fill="#0b203b"/>
+  <circle cx="2.5" cy="11.5" r=".5" fill="#0b203b"/>
+  <circle cx="6.5" cy="11.5" r=".5" fill="#0b203b"/>
+  <circle cx="4.5" cy="13.5" r=".5" fill="#0b203b"/>
+</svg>

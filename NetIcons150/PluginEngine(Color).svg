@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <defs>
+    <linearGradient id="c" x1="8.5" y1="-.111" x2="8.5" y2="12.001" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#576a80"/>
+      <stop offset="1" stop-color="#2d3742"/>
+    </linearGradient>
+    <linearGradient id="d" x1="8" y1=".973" x2="8" y2="11.043" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8f4ff"/>
+      <stop offset="1" stop-color="#9cabbc"/>
+    </linearGradient>
+    <linearGradient id="a" x1="12.493" y1="4" x2="15.011" y2="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6aafbf"/>
+      <stop offset="1" stop-color="#d9faff"/>
+    </linearGradient>
+    <linearGradient id="e" x1="12.493" y1="8" x2="15.011" y2="8" xlink:href="#a"/>
+    <linearGradient id="b" x1="1.995" y1="6" x2="4.009" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c3d0de"/>
+      <stop offset="1" stop-color="#9cabbc"/>
+    </linearGradient>
+    <linearGradient id="f" x1="5.989" x2="10.017" xlink:href="#b"/>
+    <linearGradient id="g" x1="4.5" y1="7.094" x2="4.5" y2="16.001" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#845a00"/>
+      <stop offset="1" stop-color="#3d2900"/>
+    </linearGradient>
+    <linearGradient id="h" x1="4.5" y1="8.109" x2="4.5" y2="14.949" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc13f"/>
+      <stop offset="1" stop-color="#d89300"/>
+    </linearGradient>
+    <linearGradient id="i" x1="4.5" y1="10.287" x2="4.5" y2="12.739" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d2900"/>
+      <stop offset="1" stop-color="#845a00"/>
+    </linearGradient>
+  </defs>
+  <path d="M7,12A4,4,0,0,1,3,8H1V4H3A4,4,0,0,1,7,0h6V2h3v8H13v2Z" fill="url(#c)"/>
+  <path d="M12,7V1H7A3,3,0,0,0,4,4V8a3,3,0,0,0,3,3h5V7Z" fill="url(#d)"/>
+  <path fill="url(#a)" d="M12.5 3H15V5H12.5z"/>
+  <path fill="url(#e)" d="M12.5 7H15V9H12.5z"/>
+  <path fill="url(#b)" d="M2 5H4V7H2z"/>
+  <path d="M10,9H7A1,1,0,0,1,6,8V4A1,1,0,0,1,7,3h3Z" fill="url(#f)"/>
+  <circle cx="4.5" cy="11.5" r="4.5" fill="url(#g)"/>
+  <path d="M7.151,11.5a2.572,2.572,0,0,0-.051-.507l.816-.571a3.468,3.468,0,0,0-.749-1.264l-.915.4a2.673,2.673,0,0,0-.9-.509l-.1-.975a3.729,3.729,0,0,0-1.5,0l-.1.975a2.673,2.673,0,0,0-.9.509l-.915-.4a3.468,3.468,0,0,0-.749,1.264l.816.571a2.546,2.546,0,0,0,0,1.014l-.816.571a3.468,3.468,0,0,0,.749,1.264l.915-.4a2.673,2.673,0,0,0,.9.509l.1.975a3.729,3.729,0,0,0,1.5,0l.1-.975a2.673,2.673,0,0,0,.9-.509l.915.4a3.468,3.468,0,0,0,.749-1.264L7.1,12.007A2.572,2.572,0,0,0,7.151,11.5Z" fill="url(#h)"/>
+  <ellipse cx="4.5" cy="11.5" rx="1.27" ry="1.239" fill="url(#i)"/>
+</svg>

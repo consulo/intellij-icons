@@ -1,0 +1,21 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="3.05" x2="12.95" y1="3.05" y2="12.95" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e6ea1"/>
+      <stop offset="1" stop-color="#11003b"/>
+    </linearGradient>
+    <linearGradient id="b" x1="3.757" x2="12.243" y1="3.757" y2="12.243" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ffc370"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="3.905" x2="12.095" y1="3.905" y2="12.095"/>
+    <linearGradient id="d" x1="3.757" x2="12.243" y1="3.757" y2="12.243" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3e2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="8" cy="8" r="7" fill="url(#a)"/>
+  <circle cx="8" cy="8" r="6" fill="url(#b)"/>
+  <path fill="url(#c)" d="M8 14a5.992 5.992 0 0 1-5.191-3h2.595c.519 1.792 1.486 3 2.595 3Zm3-6c0 1.094-.149 2.117-.405 3h2.595a5.96 5.96 0 0 0 .809-3h-3ZM5.405 5H2.81a5.96 5.96 0 0 0-.809 3h3c0-1.094.149-2.117.405-3Zm5.191 0h2.595A5.992 5.992 0 0 0 8 2c1.11 0 2.076 1.208 2.595 3Zm0 6H8.001v3c1.11 0 2.076-1.208 2.595-3ZM5.001 8c0 1.094.149 2.117.405 3h2.595V8h-3Zm3-3v3h3c0-1.094-.149-2.117-.405-3H8.001ZM5.406 5h2.595V2c-1.11 0-2.076 1.208-2.595 3Z"/>
+  <path fill="url(#d)" d="M8 2a6 6 0 1 0 0 12A6 6 0 0 0 8 2Zm0 11.5a5.5 5.5 0 1 1 0-11 5.5 5.5 0 1 1 0 11Z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+  <path fill="#252525" d="M0 1H14V13H0z"/>
+  <path fill="#c4c4c4" d="M1 2H13V12H1z"/>
+  <path fill="#c4c4c4" d="M1 2H13V5H1z"/>
+  <path fill="#292929" d="M2 5H13V12H2z"/>
+  <g>
+    <path d="M10.5,16C7.767,16,5,14.97,5,13V9c0-1.97,2.767-3,5.5-3S16,7.03,16,9v4C16,14.97,13.233,16,10.5,16Z" fill="#252525" fill-rule="evenodd"/>
+    <ellipse cx="10.5" cy="9" rx="4.5" ry="2" fill="#43c2ff"/>
+    <path d="M10.5,12A7.838,7.838,0,0,1,6,10.8V11c0,1.105,2.015,2,4.5,2s4.5-.895,4.5-2v-.2A7.838,7.838,0,0,1,10.5,12Z" fill="#43c2ff" fill-rule="evenodd"/>
+    <path d="M10.5,14A7.838,7.838,0,0,1,6,12.8V13c0,1.105,2.015,2,4.5,2s4.5-.895,4.5-2v-.2A7.838,7.838,0,0,1,10.5,14Z" fill="#43c2ff" fill-rule="evenodd"/>
+  </g>
+</svg>
