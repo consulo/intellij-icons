@@ -1,0 +1,10 @@
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+ <g transform="matrix(.857 0 0 .846 -.832 -1.21)">
+  <g fill="#AFB1B3" fill-rule="evenodd">
+   <path d="m1 2h14v13h-14zm1 3v9h12v-9z"/>
+   <path transform="translate(3,7)" d="m5.51 4.46-0.545 0.607-0.58-0.518c-0.407 0.29-0.911 0.455-1.47 0.455-1.48 0-2.52-1.12-2.52-2.48 0-1.37 1.05-2.51 2.53-2.51s2.52 1.12 2.52 2.48c0 0.566-0.179 1.08-0.49 1.5zm-2.58-0.342c0.298 0 0.557-0.0715 0.784-0.201l-0.784-0.676 0.562-0.635 0.797 0.728c0.143-0.247 0.17-0.489 0.17-0.814v-0.013c0-0.884-0.641-1.61-1.54-1.61-0.9 0-1.52 0.715-1.52 1.6v0.013c0 0.884 0.631 1.61 1.53 1.61z"/>
+   <polygon transform="translate(9,7)" points="0 0 1 0 1 4 3.5 4 3.5 5 0 5"/>
+  </g>
+ </g>
+</svg>

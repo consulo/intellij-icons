@@ -1,0 +1,11 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#F4F4F4" fill-rule="evenodd" d="M6 6a4 4 0 0 0 4 4V2a4 4 0 0 0-4 4m8 0a4 4 0 0 0-4-4v8a4 4 0 0 0 4-4"/>
+  <path fill="#313131" fill-rule="evenodd" d="M7 6c0 1.656 1.344 3 3 3V3C8.344 3 7 4.344 7 6m6 0c0-1.656-1.344-3-3-3v6c1.656 0 3-1.344 3-3"/>
+  <path fill="#313131" fill-rule="evenodd" d="M8 6a2 2 0 0 0 2 2V4a2 2 0 0 0-2 2"/>
+  <path fill="#EBEBEB" fill-rule="evenodd" d="M12 6a2 2 0 0 0-2-2v4a2 2 0 0 0 2-2"/>
+  <path fill="#F4F4F4" fill-rule="evenodd" d="M2 9a4 4 0 0 0 4 4V5a4 4 0 0 0-4 4m8 0a4 4 0 0 0-4-4v8a4 4 0 0 0 4-4"/>
+  <path fill="#313131" fill-rule="evenodd" d="M3 9c0 1.656 1.344 3 3 3V6C4.344 6 3 7.344 3 9m6 0c0-1.656-1.344-3-3-3v6c1.656 0 3-1.344 3-3"/>
+  <path fill="#313131" fill-rule="evenodd" d="M4 9a2 2 0 0 0 2 2V7a2 2 0 0 0-2 2"/>
+  <path fill="#EBEBEB" fill-rule="evenodd" d="M8 9a2 2 0 0 0-2-2v4a2 2 0 0 0 2-2"/>
+</svg>

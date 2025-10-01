@@ -1,17 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <title>csharpInteractive(Gray)</title>
-  <g>
-    <rect width="16" height="16" fill="#ffe6ff" opacity="0"/>
-    <g>
-      <g>
-        <rect y="3" width="13" height="13" fill="#f4f4f4"/>
-        <rect x="1" y="4" width="11" height="11" fill="#323232"/>
-        <path d="M10,14H6V13h4ZM2,14H3l3-2.5L3,9H2v.345L4.586,11.5,2,13.655Z" fill="#ebebeb"/>
-      </g>
-      <g>
-        <path d="M7.5,7A2.754,2.754,0,0,1,5,4V3A2.754,2.754,0,0,1,7.5,0H15V1h1V6H15V7Z" fill="#f4f4f4"/>
-        <path d="M7,3.5C7,5.016,8,5,8,5H9V6H7.5C6.672,6,6,5.1,6,4V3c0-1.1.672-2,1.5-2H9V2H8S7,1.984,7,3.5ZM15,3V2H14V1H13V2H12V1H11V2H10V3h1V4H10V5h1V6h1V5h1V6h1V5h1V4H14V3ZM13,4H12V3h1Z" fill="#388a34"/>
-      </g>
-    </g>
-  </g>
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#8266e2" d="M9.26 12.33a.976.976 0 0 1-.25-.73c.02-.27.14-.52.34-.69l.75-.66a.99.99 0 0 1 .66-.25c.27 0 .55.11.74.33l1.4 1.56.16-.1c.52-.3.94-1.03.94-1.62V4.83c0-.6-.42-1.33-.94-1.62L8.44.54c-.52-.3-1.36-.3-1.88 0L1.94 3.21C1.42 3.51 1 4.24 1 4.83v5.34c0 .6.42 1.33.94 1.62l4.62 2.67c.52.3 1.36.3 1.88 0l1.8-1.04-.98-1.09Z"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" d="M5.5 8.5c0 .55-.45 1-1 1s-1-.45-1-1v-2c0-.55.45-1 1-1s1 .45 1 1m2 0h4m-4 2h4m-1-3v4m-2-4v4"/>
+  <path fill="#6c707e" d="m10.75 16-.75-.66 1.65-1.84L10 11.66l.75-.66L13 13.5zM16 15h-3v1h3z"/>
 </svg>

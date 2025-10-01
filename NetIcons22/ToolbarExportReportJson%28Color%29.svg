@@ -1,0 +1,28 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="a" x1=".5" x2=".5" y1=".003" y2="1.003">
+    <stop offset="0" stop-color="#7C6E48"/>
+    <stop offset="1" stop-color="#60492F"/>
+  </linearGradient>
+  <path fill="url(#a)" fill-rule="evenodd" d="M2 1v14h12V5.586L9.414 1z"/>
+  <linearGradient id="b" x1=".5" x2=".5" y1=".004" y2="1">
+    <stop offset="0" stop-color="#E2D8BC"/>
+    <stop offset="1" stop-color="#E2CDB3"/>
+  </linearGradient>
+  <path fill="url(#b)" fill-rule="evenodd" d="M3 2v12h10V6L9 2z"/>
+  <linearGradient id="c" x1=".5" x2=".5" y1=".012" y2="1.006">
+    <stop offset="0" stop-color="#FFF2D4"/>
+    <stop offset="1" stop-color="#FFF"/>
+  </linearGradient>
+  <path fill="url(#c)" fill-rule="evenodd" d="M5 4v8h6V6H9V4z"/>
+  <linearGradient id="d" x1=".5" x2=".5" y1=".017" y2="1.051">
+    <stop offset="0" stop-color="#5B2A00"/>
+    <stop offset="1" stop-color="#8C4F00"/>
+  </linearGradient>
+  <path fill="url(#d)" fill-rule="evenodd" d="M11 9v.584A2.24 2.24 0 0 0 9.5 9c-.567 0-1.085.216-1.5.584V9H1v4H0v3h6c.647 0 1.319-.311 1.696-.904.452.56 1.088.904 1.804.904.568 0 1.085-.216 1.5-.584V16h5V9z"/>
+  <linearGradient id="e" x1=".5" x2=".5" y1=".017" y2="1.051">
+    <stop offset="0" stop-color="#FFDD80"/>
+    <stop offset="1" stop-color="#FFA75D"/>
+  </linearGradient>
+  <path fill="url(#e)" fill-rule="evenodd" d="M14 10v2.631L13 10h-1v5h1v-2.631L14 15h1v-5m-7 2v1c0 1.105.672 2 1.5 2s1.5-.895 1.5-2v-1c0-1.105-.672-2-1.5-2S8 10.895 8 12m1 1.5v-2c0-.552.016-1 .5-1s.5.448.5 1v2c0 .552-.046 1-.5 1-.453 0-.5-.448-.5-1M5 10s-1 0-1 1v1c0 1 1 1 1 1h1v1H4v1h2s1 0 1-1v-1c0-1-1-1-1-1H5v-1h2v-1m-5 0v4H1v1h1c1 0 1-1 1-1v-4z"/>
+</svg>

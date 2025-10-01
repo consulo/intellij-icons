@@ -1,0 +1,20 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="a" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#567589"/>
+    <stop offset="1" stop-color="#024652"/>
+  </linearGradient>
+  <path fill="url(#a)" fill-rule="evenodd" d="M1 15V1h11.414L15 3.586V15z"/>
+  <linearGradient id="b" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#75BCDD"/>
+    <stop offset="1" stop-color="#87AEE6"/>
+  </linearGradient>
+  <path fill="url(#b)" fill-rule="evenodd" d="M14 4v10H2V2h10z"/>
+  <linearGradient id="c" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#E6F6FF"/>
+    <stop offset="1" stop-color="#D6DFED"/>
+  </linearGradient>
+  <path fill="url(#c)" fill-rule="evenodd" d="M5 7h6V2H5z"/>
+  <path fill="#71797D" fill-rule="evenodd" d="M10 2H8v3h2z"/>
+  <path fill="#FFC" fill-rule="evenodd" d="M12 13.5H4V9h8z"/>
+</svg>

@@ -1,0 +1,6 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <path fill="none" stroke="#CED0D6" stroke-linecap="round" stroke-width="1.5" d="M8.03 7.83c.04-.24.11-.45.22-.65.17-.3.41-.53.72-.7s.66-.25 1.07-.25c.38 0 .71.08 1 .23s.51.36.67.64c.16.27.24.59.23.95q0 .435-.15.78c-.1.23-.22.42-.36.58s-.33.34-.56.55c-.2.18-.37.34-.48.47q-.18.195-.3.45c-.03.06-.05.13-.07.2"/>
+  <path fill="none" stroke="#CED0D6" stroke-linecap="round" stroke-width="1.8" d="M9.98 13.63v.11"/>
+  <path fill="none" stroke="#CED0D6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.88 18.24c-.46 0-.9-.12-1.27-.34m-1.27-2.71v-1.65m12.05 4.36c-.37.22-.81.34-1.27.34m-3.49 0H9.36m7.3-7.62V4.27c0-1.4-1.14-2.54-2.54-2.54H5.88c-1.4 0-2.54 1.14-2.54 2.54v6.35m13.32 2.92v1.65"/>
+</svg>

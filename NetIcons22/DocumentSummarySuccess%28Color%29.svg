@@ -1,0 +1,23 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="6.5" x2="6.5" y1="0" y2="13" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1f7d15"/>
+      <stop offset="1" stop-color="#096600"/>
+    </linearGradient>
+    <linearGradient id="b" x1="6.5" x2="6.5" y1="1.02" y2="11.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bfffaf"/>
+      <stop offset="1" stop-color="#11c911"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8.25" x2="8.25" y1="2.04" y2="10.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#096600"/>
+      <stop offset="1" stop-color="#1f7d15"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="9.5" x2="9.5" y1="6"/>
+  </defs>
+  <path fill="url(#a)" fill-rule="evenodd" d="M6.5 0 1 1.1v6.1c0 2.61 3.18 4.63 5.5 5.8C8.82 11.83 12 9.81 12 7.2V1.1z"/>
+  <path fill="url(#b)" fill-rule="evenodd" d="M6.5 11.87C3.55 10.31 2 8.7 2 7.19V1.92l4.5-.9 4.5.9V7.2c0 1.5-1.55 3.12-4.5 4.68Z"/>
+  <path fill="url(#c)" fill-rule="evenodd" d="M6.5 2.04v8.7C8.73 9.48 10 8.21 10 7.2V2.74z"/>
+  <circle cx="9.5" cy="9.5" r="3.5" fill="url(#d)"/>
+  <path fill="#fff" d="M9.29 11.39c-.11.11-.27.18-.43.18s-.32-.07-.43-.18L7.17 10.1a.6.6 0 1 1 .86-.84l.83.86 2.31-2.33c.23-.24.61-.24.85 0 .24.23.24.61 0 .85l-2.74 2.77Z"/>
+</svg>

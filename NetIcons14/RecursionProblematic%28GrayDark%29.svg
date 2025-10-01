@@ -1,0 +1,13 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="none" stroke="#242424" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9.5 10.5c0 3.71-.29 4-4 4s-4-.29-4-4 .29-4 4-4"/>
+  <path fill="#242424" d="M4 1h11v11H4z"/>
+  <path fill="#c4c4c4" d="M5 2h9v9H5z"/>
+  <path fill="#292929" d="M6.5 3.5h6v6h-6z"/>
+  <path fill="#242424" fill-rule="evenodd" d="M4.5 3H2v1.74l1.67 1.67v.18L2 8.26V10h2.5L8 6.5z"/>
+  <path fill="#7bbeff" fill-rule="evenodd" d="m4.67 7-2 2h1.42l2.5-2.5L4.09 4H2.67l2 2z"/>
+  <path fill="none" stroke="#7bbeff" stroke-linecap="round" stroke-linejoin="round" d="M9.5 10.5c0 3.71-.29 4-4 4s-4-.29-4-4 .29-4 4-4"/>
+  <path fill="#c4c4c4" d="M8 10h3v1H8z"/>
+  <path fill="#242424" d="M8.01 6.56s0 .03-.01.05v1.77c.15.25.36.46.61.61h1.77c.25-.15.46-.36.61-.61V6.61s0-.03-.01-.05V0H8v6.56Z"/>
+  <path fill="#e9a755" d="M10.25 7.5c0 .41-.34.75-.75.75s-.75-.34-.75-.75.34-.75.75-.75.75.34.75.75M9 6h1l.2-5H8.8z"/>
+</svg>

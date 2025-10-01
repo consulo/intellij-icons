@@ -1,0 +1,6 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="4" cy="4" r="4" fill="#9aa7b0"/>
+  <circle cx="4" cy="4" r="3" fill="#fff"/>
+  <path fill="#9aa7b0" d="M4 2c-1.1 0-2 .9-2 2s.9 2 2 2z"/>
+</svg>

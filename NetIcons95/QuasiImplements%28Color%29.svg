@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+  <defs>
+    <linearGradient id="a" x1="5" y1="4" x2="5" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#004354"/>
+      <stop offset="1" stop-color="#0c4b72"/>
+    </linearGradient>
+    <linearGradient id="b" x1="5" y1="5.5" x2="5" y2="15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8bffed"/>
+      <stop offset="1" stop-color="#61aae7"/>
+    </linearGradient>
+    <linearGradient id="c" x1="12" y1="9" x2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#145400"/>
+      <stop offset="1" stop-color="#24720c"/>
+    </linearGradient>
+    <linearGradient id="d" x1="12" y1="1" x2="12" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7dff54"/>
+      <stop offset="1" stop-color="#88d072"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M5 7.086 1.914 4 1 4 1 12.414 4.586 16 5.414 16 9 12.414 9 4 8.086 4 5 7.086z"/>
+  <path d="M2,12V9.5l3,3,3-3V12L5,15Zm3-1L8,8V5.5l-3,3-3-3V8Z" fill="url(#b)"/>
+  <path fill="url(#c)" d="M10 0H14V9H10z"/>
+  <path fill="url(#d)" d="M11 1H13V8H11z"/>
+</svg>

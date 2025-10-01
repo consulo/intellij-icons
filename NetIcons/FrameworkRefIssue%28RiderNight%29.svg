@@ -1,0 +1,8 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#43454A" stroke="#CED0D6" stroke-linecap="round" stroke-linejoin="round" d="M2.5 8.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"/>
+  <path fill="none" stroke="#CED0D6" stroke-miterlimit="10" d="M3.5 7.5h2"/>
+  <path fill="#43454A" d="m7.6 11.5.578-.008 1.577-2.805a2.004 2.004 0 0 1 3.489-.001l.831 1.478h.425V5A1.5 1.5 0 0 0 13 3.5H7A1.5 1.5 0 0 0 5.5 5v5A1.5 1.5 0 0 0 7 11.5h.6Z"/>
+  <path fill="#CED0D6" d="M11 5h2v2h-2V5ZM9.755 8.687c.068-.12.156-.223.245-.325V6H7v3h2.579l.176-.313Z"/>
+  <path fill="#F2C55C" d="m15.37 14.507-2.997-5.33a.992.992 0 0 0-.873-.511.991.991 0 0 0-.873.511l-2.997 5.33A1.002 1.002 0 0 0 8.503 16h5.995c.766 0 1.248-.825.873-1.493h-.001Zm-4.371-3.682a.5.5 0 1 1 1.002 0v1.68a.5.5 0 1 1-1.002 0v-1.68Zm.501 4.173a.667.667 0 1 1 0-1.334.667.667 0 0 1 0 1.334Z"/>
+  <path fill="none" stroke="#CED0D6" stroke-linecap="round" stroke-miterlimit="10" d="M14.5 9.899V5A1.5 1.5 0 0 0 13 3.5H7A1.5 1.5 0 0 0 5.5 5v5A1.5 1.5 0 0 0 7 11.5h.6"/>
+</svg>

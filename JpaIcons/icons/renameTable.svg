@@ -1,0 +1,16 @@
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+          d="M15.8896 1.80314C16.0368 1.95177 16.0368 2.3478 15.8896 2.4955L15.1994 3.18786L13.819 1.80314L14.5092 1.11078C14.6564 0.963074 15.0512 0.963074 15.1994 1.11078L15.8896 1.80314ZM13.3589 2.26517L14.7388 3.64944L11.3804 7H10V5.61528L13.3589 2.26517Z"
+          fill="#F68E1E"/>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+          d="M12.2087 2H1V14H15V4.80141L14 5.79906V7H12.7962L11.7939 8L14 8V10H11V8H10V10H6V8L9 8V7H6V5H9.20082L12.2087 2ZM11 13H14V11H11V13ZM5 5V7H2V5H5ZM2 10V8H5V10H2ZM2 11H5V13H2V11ZM10 11H6V13H10V11Z"
+          fill="#362F8A"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="16" height="16" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

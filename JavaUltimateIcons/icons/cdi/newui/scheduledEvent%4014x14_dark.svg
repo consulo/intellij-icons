@@ -1,4 +1,5 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="8" cy="8" r="6.5" stroke="#CED0D6"/>
-<path d="M12.4725 8.49999C12.242 10.5858 10.5858 12.242 8.5 12.4725L8.5 8.49995L12.4725 8.49999Z" stroke="#CED0D6"/>
+<!-- Copyright 2000-2023 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg fill="none" height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="7" cy="7" r="6.5" stroke="#CED0D6"/>
+  <path d="m11 7.5c-0.23 2.1-1.9 3.7-4 4v-4z" stroke="#CED0D6"/>
 </svg>

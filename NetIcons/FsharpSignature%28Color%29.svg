@@ -1,0 +1,40 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="63.04" x2="63.04" y1="-120.36" y2="-121.36" gradientTransform="matrix(12 0 0 -14 -748.5 -1684)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c6d48"/>
+      <stop offset="1" stop-color="#60492f"/>
+    </linearGradient>
+    <linearGradient id="b" x1="66.15" x2="66.15" y1="-127.09" y2="-128.08" gradientTransform="matrix(10 0 0 -12 -653.5 -1523)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e2d7bc"/>
+      <stop offset="1" stop-color="#e2ccb3"/>
+    </linearGradient>
+    <linearGradient id="c" x1="78.58" x2="78.58" y1="-150.64" y2="-151.63" gradientTransform="matrix(6 0 0 -8 -463.5 -1201)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff2d3"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="d" x1="64.45" x2="64.45" y1="-160.71" y2="-161.71" gradientTransform="matrix(11 0 0 -7 -703.5 -1116)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#004f5d"/>
+      <stop offset="1" stop-color="#007e93"/>
+    </linearGradient>
+    <linearGradient id="e" x1="68.22" x2="68.22" y1="-193" y2="-194" gradientTransform="matrix(9 0 0 -5 -608.5 -955)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cefffb"/>
+      <stop offset="1" stop-color="#78e3ff"/>
+    </linearGradient>
+    <linearGradient id="f" x1="12.5" x2="12.5" y1="9" y2="16.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#460054"/>
+      <stop offset="1" stop-color="#9000ad"/>
+    </linearGradient>
+    <linearGradient id="g" x1="12.5" x2="12.5" y1="9.89" y2="15.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd1f4"/>
+      <stop offset="1" stop-color="#e97dff"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" fill-rule="evenodd" d="M2 15V1h7.41L14 5.59V15z"/>
+  <path fill="url(#b)" fill-rule="evenodd" d="M9 2H3v12h10V6z"/>
+  <path fill="url(#c)" fill-rule="evenodd" d="M9 6V4H5v8h6V6z"/>
+  <path fill="url(#d)" fill-rule="evenodd" d="M5 16v-1H4v-1H3v2H0V9h10v1h1v5h-1v1z"/>
+  <path fill="url(#e)" fill-rule="evenodd" d="M2 11v1h2l-.5 1H2v2H1v-5h3.5v1M8 13H7v-1h1m2 0v-1H9v-1H8v1H7v-1H6v1H5v1h1v1H5v1h1v1h1v-1h1v1h1v-1h1v-1H9v-1z"/>
+  <path fill="url(#f)" d="M11 9h3v7h-3z"/>
+  <path fill="url(#g)" d="M13 15h-1v-3h1zm0-5h-1v1h1z"/>
+</svg>

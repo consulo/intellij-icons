@@ -1,3 +1,4 @@
+<!-- Copyright 2000-2023 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_8012_11511)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M8 7C7.44772 7 7 7.44772 7 8L7 13C7 13.5523 7.44772 14 8 14L13 14C13.5523 14 14 13.5523 14 13L14 8.00001C14 7.44772 13.5523 7.00001 13 7.00001L8 7ZM8 9.00002L8 8.00001H10L10 9.00002H8ZM8 10L8 13H10L10 10H8ZM11 13H13L13 10H11L11 13ZM13 9.00001L13 8H11L11 9.00001H13Z" fill="#3574F0"/>

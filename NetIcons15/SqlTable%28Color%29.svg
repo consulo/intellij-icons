@@ -1,0 +1,25 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="url(#a)" d="M16 1H0v14h16z"/>
+  <path fill="url(#b)" d="M15 2H1v12h14z"/>
+  <path fill="url(#c)" d="M14 3H2v10h12z"/>
+  <path fill="url(#d)" d="M14.5 6H11V2.5h-1V6H6V2.5H5V6H1.5v1H5v6.5h1V7h4v6.5h1V7h3.5z"/>
+  <defs>
+    <linearGradient id="a" x1="8" x2="8" y1="1.07" y2="15.07" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#576A80"/>
+      <stop offset="1" stop-color="#2D3742"/>
+    </linearGradient>
+    <linearGradient id="b" x1="8" x2="8" y1="2" y2="14.09" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2FCFF"/>
+      <stop offset="1" stop-color="#9CC9F7"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8" x2="8" y1="3" y2="13.08" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ADD2F7"/>
+      <stop offset="1" stop-color="#9CC9F7"/>
+    </linearGradient>
+    <linearGradient id="d" x1="8" x2="8" y1="2.5" y2="13.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4490EB"/>
+      <stop offset="1" stop-color="#073D78"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="8" x2="8" y1=".97" y2="15.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#005da7"/>
+      <stop offset="1" stop-color="#00345e"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-55.24" x2="-46.76" y1="-989.26" y2="-997.74" gradientTransform="matrix(1 0 0 -1 59 -985.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ffc370"/>
+    </linearGradient>
+    <linearGradient id="c" x1="3.78" x2="13.5" y1="3.78" y2="13.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3dabff"/>
+      <stop offset="1" stop-color="#e04ec3"/>
+    </linearGradient>
+  </defs>
+  <circle cx="8" cy="8" r="7" fill="url(#a)"/>
+  <circle cx="8" cy="8" r="6" fill="url(#b)"/>
+  <path fill="url(#c)" d="M8 14c-2.14 0-4.12-1.14-5.19-3h2.6c.52 1.79 1.49 3 2.6 3Zm3-6c0 1.09-.15 2.12-.41 3h2.6c.53-.91.81-1.95.81-3h-3ZM5.4 5H2.8c-.53.91-.81 1.95-.81 3h3c0-1.09.15-2.12.41-3Zm5.19 0h2.6C12.12 3.14 10.14 2 8 2c1.11 0 2.08 1.21 2.6 3Zm0 6h-2.6v3c1.11 0 2.08-1.21 2.6-3Zm-5.6-3c0 1.09.15 2.12.41 3H8V8H5Zm3-3v3h3c0-1.09-.15-2.12-.41-3h-2.6Zm-2.6 0h2.6V2c-1.11 0-2.08 1.21-2.6 3Z"/>
+</svg>

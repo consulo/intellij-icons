@@ -1,0 +1,28 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b" x1="8" x2="8" y1=".09" y2="14.92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#005439"/>
+      <stop offset="1" stop-color="#007356"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8" x2="8" y1="1" y2="14.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b3ffcc"/>
+      <stop offset="1" stop-color="#10bf41"/>
+    </linearGradient>
+    <linearGradient id="a" x1="-482" x2="-482" y1="114.77" y2="113.77" gradientTransform="matrix(9 0 0 -9 4342.5 1040)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0078db"/>
+      <stop offset="1" stop-color="#002caf"/>
+    </linearGradient>
+    <linearGradient id="d" x1="-454.71" x2="-454.71" y1="105.56" y2="104.56" gradientTransform="matrix(7 0 0 -7 3187.5 747)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".99" stop-color="#78e9ff"/>
+      <stop offset="1" stop-color="#78e9ff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="e" x1="-405.6" x2="-405.6" y1="88.99" y2="87.99" gradientTransform="matrix(5 0 0 -5 2032.5 454)"/>
+  </defs>
+  <path fill="url(#b)" d="M8 15c-3.48 0-7-.93-7-3V3C1 .93 4.52 0 8 0s7 .93 7 3v9c0 2.07-3.52 3-7 3"/>
+  <path fill="url(#c)" d="M8 1c3.31 0 6 .9 6 2s-2.69 2-6 2-6-.9-6-2 2.69-2 6-2m5.7 9.88c-.79.8-3.04 1.38-5.7 1.38s-4.91-.58-5.7-1.38c-.19.2-.3.41-.3.62v.5c0 1.1 2.69 2 6 2s6-.9 6-2v-.5c0-.22-.11-.43-.3-.62m0-3c-.79.8-3.04 1.38-5.7 1.38s-4.91-.58-5.7-1.38c-.19.2-.3.41-.3.62V9c0 1.1 2.69 2 6 2s6-.9 6-2v-.5c0-.22-.11-.43-.3-.62m0-3c-.79.8-3.04 1.38-5.7 1.38s-4.91-.58-5.7-1.38c-.19.2-.3.41-.3.62V6c0 1.1 2.69 2 6 2s6-.9 6-2v-.5c0-.22-.11-.43-.3-.62"/>
+  <path fill="url(#a)" fill-rule="evenodd" d="M9 16H0V7h9z"/>
+  <path fill="url(#d)" fill-rule="evenodd" d="M8 15H1V8h7z"/>
+  <path fill="url(#e)" fill-rule="evenodd" d="m3 9-1 1h2l.5.5L2 13v1h1l2.5-2.5.5.5v2l1-1V9z"/>
+</svg>

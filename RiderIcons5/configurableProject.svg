@@ -1,5 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
-  <g id="configurableProject" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1" opacity=".7">
-    <path id="Fill-2" fill="#9AA7B0" d="M5.5,2.2295 L9.019,7.3125 L5.5,9.6595 L5.5,2.2295 Z M5.5,1.0005 L1,7.5005 L5.5,10.5005 L10,7.5005 L5.5,1.0005 Z"/>
-  </g>
+<svg width="11" height="11" viewBox="0 0 11 11" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#9aa7b0" d="M5.5 1.122 1 7.647l4.5 2.475L10 7.647 5.5 1.122Zm0 1.762 3.049 4.42L5.5 8.981V2.884Z"/>
 </svg>

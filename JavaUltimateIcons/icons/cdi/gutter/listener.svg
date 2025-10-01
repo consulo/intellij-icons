@@ -1,3 +1,4 @@
+<!-- Copyright 2000-2023 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
 <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
   <g fill="none" fill-rule="evenodd">
     <path fill="#40B6E0" fill-opacity=".7" d="M2.5,4.293 L8.89025,10.5023644 C7.14025,11.8720341 4.89525,11.3839071 3.21775,9.75317445 C2.94698387,9.49034891 2.70681738,9.21318237 2.50033975,8.92600546 L2.5,4.293 Z M8.783375,4.34735041 C9.05393952,4.61017595 9.29396943,4.88734249 9.50035979,5.1745194 L9.5,9.805 L3.109625,3.59816051 C4.859625,2.22727655 7.104625,2.71661777 8.783375,4.34735041 Z"/>

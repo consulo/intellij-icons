@@ -1,0 +1,48 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b" x1="-578.17" x2="-578.17" y1="253.21" y2="252.22" gradientTransform="matrix(15 0 0 -14 8681 3546)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c28c21"/>
+      <stop offset="1" stop-color="#634933"/>
+    </linearGradient>
+    <linearGradient id="c" x1="-571.81" x2="-571.81" y1="247.58" y2="246.59" gradientTransform="matrix(13 0 0 -12 7442 2973)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe9bd"/>
+      <stop offset="1" stop-color="#d4a24c"/>
+    </linearGradient>
+    <linearGradient id="d" x1="-563.14" x2="-563.14" y1="219.43" y2="218.43" gradientTransform="matrix(11 0 0 -7 6203 1542)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b88143"/>
+      <stop offset="1" stop-color="#8a4717"/>
+    </linearGradient>
+    <linearGradient id="e" x1="5.5" x2="5.5" y1="5.14" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5673a0"/>
+      <stop offset="1" stop-color="#415a80"/>
+    </linearGradient>
+    <linearGradient id="a" x1="8.46" x2="8.46" y1="5.95" y2="14.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8bd4ff"/>
+      <stop offset=".99" stop-color="#a2fbff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1="6.39" x2="6.39"/>
+    <linearGradient xlink:href="#a" id="g" x1="8.97" x2="8.97"/>
+    <linearGradient xlink:href="#a" id="h" x1="8.13" x2="8.13"/>
+    <linearGradient xlink:href="#a" id="i" x1="4.9" x2="4.9"/>
+    <linearGradient xlink:href="#a" id="j" x1="6.71" x2="6.71"/>
+    <linearGradient xlink:href="#a" id="k" x1="2" x2="2"/>
+    <linearGradient xlink:href="#a" id="l" x1="3.45" x2="3.45"/>
+    <linearGradient xlink:href="#a" id="m" x1="3.68" x2="3.68"/>
+    <linearGradient xlink:href="#a" id="n" x1="3.79" x2="3.79"/>
+  </defs>
+  <path fill="url(#b)" d="M1 15V3h6.59l2-2H16v14z"/>
+  <path fill="url(#c)" d="M15 14V2h-5L8 4H2v10z"/>
+  <path fill="url(#d)" d="M3 6h11v7H3z"/>
+  <circle cx="5.5" cy="10.5" r="5.5" fill="url(#e)"/>
+  <path fill="url(#a)" d="m7.24 8.41 1.03.55 1.42-.56-2.02-1.79z"/>
+  <path fill="url(#f)" d="m6.05 9.93 1.62-3.32-2.55.82.25 2.36z"/>
+  <path fill="url(#g)" d="m8.16 11.47-.21 1.15.98 1.18L10 11.32z"/>
+  <path fill="url(#h)" d="m6.34 10.81 3.66.51-1.57-2.17-2.16.97z"/>
+  <path fill="url(#i)" d="m5.53 13.29-1.15.16-.82 1.29 2.68.26z"/>
+  <path fill="url(#j)" d="M5.6 11.36 6.24 15l1.58-2.16-1.59-1.76z"/>
+  <path fill="url(#k)" d="m2.99 11.35-.51-1.05L1 9.92l.59 2.64z"/>
+  <path fill="url(#l)" d="m4.85 10.83-3.26 1.73 2.54.84 1.18-2.06z"/>
+  <path fill="url(#m)" d="m4.05 8.34.84-.81L4.79 6 2.46 7.37z"/>
+  <path fill="url(#n)" d="M5.12 9.94 2.46 7.37v2.69l2.32.48z"/>
+</svg>

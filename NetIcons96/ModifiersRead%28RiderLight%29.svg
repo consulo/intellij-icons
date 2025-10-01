@@ -1,0 +1,5 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#F4F4F4" fill-rule="evenodd" d="M12.914 0H11v2H8v3h3v2h1.914L16 3.914v-.828z"/>
+  <path fill="#388934" fill-rule="evenodd" d="M12.5 1H12v1l1 1H9v1h4l-1 1v1h.5L15 3.5z"/>
+</svg>

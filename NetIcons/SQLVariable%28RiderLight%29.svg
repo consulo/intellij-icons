@@ -1,0 +1,7 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="8" cy="4" fill="#9AA7B0" opacity=".8" rx="4" ry="2"/>
+  <path fill="#9AA7B0" fill-rule="evenodd" d="M8 7c-1.41.07-2.81-.35-4-1.2V6c0 1.1 1.79 2 4 2s4-.9 4-2v-.2c-1.19.85-2.59 1.27-4 1.2" opacity=".8"/>
+  <path fill="#9AA7B0" fill-rule="evenodd" d="M8 9c-1.41.07-2.81-.35-4-1.2V8c0 1.1 1.79 2 4 2s4-.9 4-2v-.2c-1.19.85-2.59 1.27-4 1.2" opacity=".8"/>
+  <path fill="#40b6e0" d="M5 13H3v1h2v1h1v-3H5zm2 0h6v1H7z"/>
+</svg>
