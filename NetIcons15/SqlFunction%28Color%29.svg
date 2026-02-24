@@ -1,0 +1,22 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b" x1="8" x2="8" y1=".27" y2="15.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f008f"/>
+      <stop offset="1" stop-color="#5c005c"/>
+    </linearGradient>
+    <linearGradient id="a" x1="8" x2="8" y1="1.79" y2="14.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc2ff"/>
+      <stop offset="1" stop-color="#fe85ff"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8" x2="8" y1="2.58" y2="13.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#540054"/>
+      <stop offset="1" stop-color="#8f008f"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="7.75" x2="7.75" y1="4.69" y2="11.61"/>
+  </defs>
+  <path fill="url(#b)" d="M1 11.69V4.31L8 .27l7 4.04v7.38l-7 4.04z"/>
+  <path fill="url(#a)" d="m8 14.58-6-3.47V4.89l6-3.47 6 3.47v6.22z"/>
+  <path fill="url(#c)" d="m3 10.54 5 2.88 5-2.88V5.46L8 2.58 3 5.46z"/>
+  <path fill="url(#d)" d="M9.5 5.5h.5v-1h-.5c-.69 0-1.31.47-1.5 1.13L7.61 7H6.3v1h1.03l-.54 1.9c-.1.35-.43.6-.79.6h-.5v1H6c.81 0 1.53-.54 1.75-1.33L8.37 8H9.7V7H8.65l.31-1.09c.07-.24.29-.41.54-.41"/>
+</svg>

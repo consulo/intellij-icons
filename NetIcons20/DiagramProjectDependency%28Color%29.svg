@@ -1,0 +1,24 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b" x1="8.5" x2="8.5" y1="1.02" y2="14.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#576a80"/>
+      <stop offset="1" stop-color="#2d3742"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8.54" x2="8.54" y1="4.7" y2="11.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e0efff"/>
+    </linearGradient>
+    <linearGradient id="a" x1="5" x2="5" y1="2" y2="5.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#badaff"/>
+      <stop offset="1" stop-color="#76a9de"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="12" x2="12" y1="6" y2="9.98"/>
+    <linearGradient xlink:href="#a" id="e" y1="10" y2="13.98"/>
+  </defs>
+  <path fill="url(#b)" d="M16 11V5H9.38L9 4.66V1H1v6h6.12l.88.78v.44L7.12 9H1v6h8v-3.66l.38-.34z"/>
+  <path fill="url(#c)" d="M7.02 10.42 9.75 8l-2.8-2.49.59-.81L10.13 7v2l-2.44 2.17z"/>
+  <path fill="url(#a)" d="M2 2h6v4H2z"/>
+  <path fill="url(#d)" d="M9 6h6v4H9z"/>
+  <path fill="url(#e)" d="M2 10h6v4H2z"/>
+</svg>

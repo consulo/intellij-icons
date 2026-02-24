@@ -1,0 +1,15 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#25324D" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" d="m11.71 10.19 1.18-1.39 1.06.72 1.51-.42-1.7-1.22-2.1.43z"/>
+  <path fill="none" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9" d="M11.66 10.1V8.31l2.1-.43 1.74 1.11"/>
+  <path fill="#25324D" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" d="m12.36 11.33 1.7.69-.36 1.23.87 1.3.64-1.99-1.06-1.85z"/>
+  <path fill="none" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9" d="m12.44 11.26 1.71-.55 1.06 1.85-.52 1.99"/>
+  <path fill="#25324D" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" d="m11.48 12.3-.13 1.82-1.29.04-.97 1.22h2.1l1.44-1.57z"/>
+  <path fill="none" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9" d="m11.57 12.36 1.06 1.45-1.44 1.57-2.06.12"/>
+  <path fill="#25324D" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" d="m10.28 11.77-1.78.43-.43-1.2-1.47-.55.65 1.99 1.95.88z"/>
+  <path fill="none" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9" d="M10.26 11.87 9.2 13.32l-1.95-.88-.75-1.91"/>
+  <path fill="#25324D" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" d="m10.42 10.47-.97-1.56 1.02-.78.07-1.56-1.7 1.23-.24 2.12z"/>
+  <path fill="none" stroke="#548AF7" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9" d="M10.31 10.48 8.6 9.92l.24-2.12 1.6-1.3"/>
+  <path fill="#43454A" d="m5.9 12.97-.75-1.92c-.14-.36-.13-.76.02-1.11a1.44 1.44 0 0 1 1.32-.87c.18 0 .37.04.54.1l.19.07.18-1.61c.04-.38.23-.72.52-.96l1.6-1.3c.26-.21.58-.33.92-.33.44 0 .85.19 1.12.53.22.27.33.61.32.96v.24l1.59-.33c.07-.01.23-.03.29-.03.18 0 .37.04.53.11.07.03.2-.02.2-.02v-.52c0-.83-.67-1.5-1.5-1.5H8.18l-1.89-2h-3.3c-.83 0-1.5.67-1.5 1.5v8c0 .83.67 1.5 1.5 1.5h2.93s.17-.18.09-.29c-.05-.07-.1-.16-.13-.24z"/>
+  <path fill="none" stroke="#CED0D6" stroke-linecap="round" stroke-linejoin="round" d="M14.5 6.07V6c0-.83-.67-1.5-1.5-1.5H8.19l-1.89-2H3c-.83 0-1.5.67-1.5 1.5v8c0 .83.67 1.5 1.5 1.5h2.61"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <title>ProfileAttach_dark</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect width="16" height="16" fill="#ed1e79" opacity="0"/>
+        <g>
+          <path d="M2.41,7.5A4.59,4.59,0,0,1,11.56,7H13a6,6,0,1,0-6,6.5,6.63,6.63,0,0,0,1-.08V12a4.14,4.14,0,0,1-1,.11A4.59,4.59,0,0,1,2.41,7.5Z" fill="#afb1b3" fill-rule="evenodd"/>
+          <polygon points="8.02 4.7 6.76 4.7 6.76 7.31 4.91 9.16 5.8 10.05 8.01 7.84 8.02 7.84 8.02 7.83 8.03 7.82 8.02 7.82 8.02 4.7" fill="#afb1b3" fill-rule="evenodd"/>
+          <polygon points="9.9 8 12.24 10.33 9.08 13.49 10.52 14.93 13.67 11.77 16 14.1 16 8 9.9 8" fill="#489c53" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,8 +1,7 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="idea/dbe/database/api/resources/icons/partition">
-<g id="localScope Copy">
-<path id="Path" d="M8.5 13C5.46243 13 3 10.5376 3 7.5C3 4.46243 5.46243 2 8.5 2C11.5376 2 14 4.46243 14 7.5H8.5V13Z" fill="#40B6E0" fill-opacity="0.6"/>
-<path id="Path Copy 2" d="M15 9C15 11.7614 12.7614 14 10 14V9H15Z" fill="#40B6E0" fill-opacity="0.6"/>
-</g>
-</g>
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g fill="#9AA7B0" fill-opacity=".8" transform="translate(3 2)">
+    <path d="M5.5,11 C2.46243387,11 0,8.53756609 0,5.5 C0,2.46243387 2.46243387,0 5.5,0 C8.53756609,0 11,2.46243387 11,5.5 L5.5,5.5 L5.5,11 Z"/>
+    <path d="M12,12 C9.23857625,12 7,9.76142371 7,7 L12,7 L12,12 Z" transform="rotate(-90 9.5 9.5)"/>
+  </g>
 </svg>

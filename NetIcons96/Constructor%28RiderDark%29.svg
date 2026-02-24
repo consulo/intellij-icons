@@ -1,0 +1,10 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#242424" fill-rule="evenodd" d="M5 12.25V6.751L10 4l5 2.751v5.499L10 15z"/>
+  <path fill="#C3C3C3" fill-rule="evenodd" d="M6 7.801v3.858l4 2.2V10zm8 0L10 10v3.859l4-2.2z"/>
+  <path fill="#282828" fill-rule="evenodd" d="m13.379 7-3.38 1.858L6.622 7 6 7.342v.459L10 10l4-2.199v-.459z"/>
+  <path fill="#C3C3C3" fill-rule="evenodd" d="M10 8.858 13.379 7 10 5.141 6.621 7z"/>
+  <path fill="#242424" fill-rule="evenodd" d="M5 1V0H2v1H0v7h2v1h3V8h2V1z"/>
+  <path fill="#E8A34D" fill-rule="evenodd" d="M6 6H5v1h1M2 6H1v1h1m4-5H5v1h1M2 2H1v1h1m4 1v1H5v1H4v2H3V6H2V5H1V4h1V3h1V1h1v2h1v1z"/>
+  <path fill="#282828" fill-rule="evenodd" d="M3 5h1V4H3z"/>
+</svg>

@@ -1,3 +1,4 @@
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M1 2H6V14H1V2Z" fill="#B99BF8" fill-opacity="0.7"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M15 2H7V5H10V7H7V8H10V10H7V11H10V13H7V14H15V2ZM14 13V11H11V13H14ZM14 10H11V8H14V10ZM14 7V5H11V7H14Z" fill="#B99BF8" fill-opacity="0.7"/>

@@ -1,0 +1,15 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#414F5F" fill-rule="evenodd" d="M11 1a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1H2v3h1v10a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h1V1zm0 0"/>
+  <linearGradient id="a" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#DFEFFF"/>
+    <stop offset="1" stop-color="#A5B1BC"/>
+  </linearGradient>
+  <path fill="url(#a)" fill-rule="evenodd" d="M7 1a1 1 0 0 0-1 1H3v1h10V2h-3a1 1 0 0 0-1-1zm0 0"/>
+  <linearGradient id="b" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#DFEFFF"/>
+    <stop offset="1" stop-color="#A5B1BC"/>
+  </linearGradient>
+  <path fill="url(#b)" fill-rule="evenodd" d="M4 4v9a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2V4zm0 0"/>
+  <path fill="#414F5F" fill-rule="evenodd" d="M5.5 13.9a.5.5 0 0 0 .5-.5V5.6a.5.5 0 0 0-1 0v7.8a.5.5 0 0 0 .5.5m2.5 0a.5.5 0 0 0 .5-.5V5.6a.5.5 0 0 0-1 0v7.8a.5.5 0 0 0 .5.5m2.5 0a.5.5 0 0 0 .5-.5V5.6a.5.5 0 0 0-1 0v7.8a.5.5 0 0 0 .5.5m0 0"/>
+</svg>

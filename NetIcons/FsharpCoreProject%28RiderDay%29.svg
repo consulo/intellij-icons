@@ -1,0 +1,8 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#F2FCFC" d="M13.5 2.5h-11a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-7a2 2 0 0 0-2-2Z"/>
+  <path fill="#EBECF0" d="M8 15.25a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5Z"/>
+  <path fill="none" stroke="#6C707E" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75" d="M9.28 12.314A1.739 1.739 0 0 0 8 11.75a1.75 1.75 0 0 0 0 3.5c.507 0 .96-.219 1.28-.564"/>
+  <path fill="#3574F0" d="M8 14.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"/>
+  <path fill="none" stroke="#039BA1" stroke-linecap="round" stroke-linejoin="round" d="M10.932 13.5H13.5a2 2 0 0 0 2-2v-7a2 2 0 0 0-2-2h-11a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h1.875"/>
+  <path fill="#039BA1" d="M3.412 5.2h3.736v.916H4.393v1.54h2.595v.916H4.393V10.8h-.981V5.2Zm5.052 4.184h-.788v-.72h.944l.279-1.316h-.823v-.72h.979L9.359 5.2h.797l-.305 1.424h1.192l.304-1.424h.796l-.304 1.42h.788v.72h-.944l-.28 1.316h.824v.72h-.979l-.305 1.424h-.796l.305-1.42H9.26l-.304 1.42H8.16l.304-1.416Zm2.144-.724.28-1.316H9.696L9.417 8.66h1.191Z"/>
+</svg>

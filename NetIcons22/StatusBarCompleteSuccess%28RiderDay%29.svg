@@ -1,0 +1,6 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="none" stroke="#6C707E" stroke-linecap="round" stroke-linejoin="round" d="M6.82 13.86C4.05 12.24 2.5 10.41 2.5 8.73V2.6L8 1.5l5.5 1.1v4.11"/>
+  <path fill="none" stroke="#6C707E" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9" d="m7.5 3.73-3 .5m3 1.6-3 .12m3 1.93-3-.15m2.44 2.12-2.16-.33m1.73 2.15-.11-.03"/>
+  <path fill="#6C707E" d="M12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4m-.36 6.17c-.11.11-.27.18-.43.18s-.32-.07-.43-.18l-1.52-1.56a.6.6 0 1 1 .86-.84l1.09 1.12 2.87-2.9c.23-.24.61-.24.85 0 .24.23.24.61 0 .85l-3.3 3.33z"/>
+</svg>

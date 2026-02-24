@@ -1,0 +1,11 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#322936" d="M8 9.88C8 8.85 8.84 8 9.88 8h3.62V4.98L8 1.95v4.17C8 7.15 7.16 8 6.12 8H2.5v3.02L8 14.05z"/>
+  <path fill="none" stroke="#BB69D6" stroke-linecap="round" stroke-linejoin="round" d="m7.5 13.77-5-2.75V8.5m6-6.27 5 2.75V7.5"/>
+  <path fill="none" stroke="#BB69D6" stroke-linecap="round" stroke-linejoin="round" d="M7.74 7.86 8 8l5.5-3.02"/>
+  <path fill="#C77D55" d="M6.12 0H.88A.88.88 0 0 0 0 .88v5.24c0 .486.394.88.88.88h5.24A.88.88 0 0 0 7 6.12V.88A.88.88 0 0 0 6.12 0"/>
+  <path fill="#1E1F22" d="M3.68 4.21c-.06.03-.12.04-.18.04s-.12-.01-.18-.04L1 3.05v1.7c0 .28.22.5.5.5h4c.28 0 .5-.22.5-.5v-1.7z"/>
+  <path fill="#1E1F22" d="M1.04 2.17 3.5 3.4l2.48-1.24a.493.493 0 0 0-.48-.41h-4c-.25 0-.44.18-.48.42h.02"/>
+  <path fill="#C77D55" d="M15.12 9H9.88a.88.88 0 0 0-.88.88v5.24c0 .486.394.88.88.88h5.24a.88.88 0 0 0 .88-.88V9.88a.88.88 0 0 0-.88-.88"/>
+  <path fill="#1E1F22" fill-rule="evenodd" d="M12.15 10.35c.2-.2.51-.2.71 0l1.79 1.79c.2.2.2.51 0 .71l-1.79 1.79c-.2.2-.51.2-.71 0l-1.79-1.79c-.2-.2-.2-.51 0-.71l1.79-1.79" clip-rule="evenodd"/>
+</svg>

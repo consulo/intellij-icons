@@ -1,0 +1,45 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="c" x1="4" x2="4" y1="0" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7d2c00"/>
+      <stop offset="1" stop-color="#470000"/>
+    </linearGradient>
+    <linearGradient id="d" x1="4" x2="4" y1="1.083" y2="5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc085"/>
+      <stop offset="1" stop-color="#ff5252"/>
+    </linearGradient>
+    <linearGradient id="e" x1="12" x2="12" y1="0" y2="6.037" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#005226"/>
+      <stop offset="1" stop-color="#1f5e08"/>
+    </linearGradient>
+    <linearGradient id="f" x1="12" x2="12" y1="1.028" y2="5.028" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0ffd5"/>
+      <stop offset="1" stop-color="#63f1a4"/>
+    </linearGradient>
+    <linearGradient id="a" x1="8" x2="8" y1="5.053" y2="16.053" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#576a80"/>
+      <stop offset="1" stop-color="#2d3742"/>
+    </linearGradient>
+    <linearGradient id="b" x1="8" x2="8" y1="6.286" y2="14.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#ebf4ff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="h" y1="7.021" y2="8.177"/>
+    <linearGradient xlink:href="#b" id="i" x2="8" y1="8.5" y2="23.137"/>
+    <linearGradient xlink:href="#a" id="j" y1="9.093" y2="14.1"/>
+    <radialGradient id="g" cx="8" cy="11.5" r="4.208" fx="8" fy="11.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".522" stop-color="#343f4c"/>
+      <stop offset="1" stop-color="#f7fbff"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#c)" d="M6 1.3V0H2.586L0 2.586v.828L2.586 6H6V4.75h2v-1c0-1.207-.86-2.218-2-2.45Z"/>
+  <path fill="url(#d)" d="M7 3.25a1 1 0 0 0-1-1H3.75L5 1H3L1 3l2 2h2L3.75 3.75H7v-.5Z"/>
+  <path fill="url(#e)" d="M10 1.3V0h3.414L16 2.586v.828L13.414 6H10V4.75H8v-1c0-1.207.86-2.218 2-2.45Z"/>
+  <path fill="url(#f)" d="M9 3.25a1 1 0 0 1 1-1h2.25L11 1h2l2 2-2 2h-2l1.25-1.25H9v-.5Z"/>
+  <path fill="url(#a)" d="M13.058 10.012a1 1 0 0 0 .377-1.357l-.489-.871a1 1 0 0 0-1.361-.383l-.61.343C10.843 6.211 9.567 5 8.001 5S5.159 6.211 5.027 7.744l-.61-.343a1 1 0 0 0-1.361.383l-.489.871a.997.997 0 0 0 .377 1.357.993.993 0 0 0-.942.988v1c0 .532.418.957.942.988a1 1 0 0 0-.377 1.357l.489.871a1 1 0 0 0 1.361.383l.903-.507c.751.562 1.673.908 2.682.908s1.931-.345 2.682-.908l.903.507a1 1 0 0 0 1.361-.383l.489-.871a.997.997 0 0 0-.377-1.357.993.993 0 0 0 .942-.988v-1a.993.993 0 0 0-.942-.988Z"/>
+  <path fill="url(#g)" d="M13 11H9.257l3.306-1.855-.489-.872L8 10.56 3.926 8.273l-.489.872L6.743 11H3v1h3.743l-3.306 1.855.489.872L8 12.44l4.074 2.287.489-.872L9.257 12H13v-1z"/>
+  <circle cx="8" cy="8" r="2" fill="url(#b)"/>
+  <path fill="url(#h)" d="M8 8c.338 0 .659.063.969.154C8.977 8.102 9 8.055 9 8a1.001 1.001 0 0 0-2 0c0 .054.023.101.031.154C7.341 8.064 7.662 8 8 8Z"/>
+  <circle cx="8" cy="11.5" r="3.5" fill="url(#i)"/>
+  <circle cx="8" cy="11.5" r="2.5" fill="url(#j)"/>
+</svg>

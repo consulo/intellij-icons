@@ -1,0 +1,35 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="a" x1="0" x2="1" y1=".5" y2=".5">
+    <stop offset="0" stop-color="#124363"/>
+    <stop offset="1" stop-color="#0C5E95"/>
+  </linearGradient>
+  <path fill="url(#a)" d="M7 8.5v3a3.501 3.501 0 0 0 7 0v-3Zm0 0"/>
+  <linearGradient id="b" x1=".5" x2=".5" y1=".017" y2="1.008">
+    <stop offset="0" stop-color="#FA0"/>
+    <stop offset="1" stop-color="#896E00"/>
+  </linearGradient>
+  <path fill="url(#b)" d="M7.344 10h6.312a5.501 5.501 0 0 0-1.21-9.649 5.501 5.501 0 0 0-7.293 6.434A5.5 5.5 0 0 0 7.344 10m0 0"/>
+  <linearGradient id="c" x1="0" x2="1" y1=".5" y2=".5">
+    <stop offset="0" stop-color="#E2F7FF"/>
+    <stop offset="1" stop-color="#465878"/>
+  </linearGradient>
+  <path fill="url(#c)" d="M8 9v2.5a2.5 2.5 0 0 0 5 0V9Zm0 0"/>
+  <path fill="#FFF" d="M15 5.5a4.5 4.5 0 1 0-7 3.74V10h5v-.76a4.5 4.5 0 0 0 2-3.74m0 0"/>
+  <linearGradient id="d" x1=".5" x2=".5" y1=".007" y2="1.002">
+    <stop offset="0" stop-color="#FFF6B7"/>
+    <stop offset="1" stop-color="#FFE000"/>
+  </linearGradient>
+  <path fill="url(#d)" d="M14 5.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0"/>
+  <path fill="#9E5B00" d="M12 4.5 10.5 6 9 4.5l-.5.5L10 7v1.5h1V7l1.5-2z"/>
+  <linearGradient id="e" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#750E17"/>
+    <stop offset="1" stop-color="#630009"/>
+  </linearGradient>
+  <path fill="url(#e)" d="m6.276 8-.733 1.515L2.641 5H0v1.294l1.788 2.781L0 12.771V14h2.724l.958-1.979.37.576L3 14.771V16h2.724L9 9.229V8z"/>
+  <linearGradient id="f" x1=".5" x2=".5" y1="0" y2="1">
+    <stop offset="0" stop-color="#FFC6AB"/>
+    <stop offset="1" stop-color="#FFB0A3"/>
+  </linearGradient>
+  <path fill="url(#f)" d="m6.903 9-1.237 2.556L2.095 6H1l1.932 3.006L1 13h1.097l1.461-3.02 1.638 2.548L4 15h1.097L8 9z"/>
+</svg>

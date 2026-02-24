@@ -1,0 +1,12 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#F4F4F4" fill-rule="evenodd" d="M6.809 2h.457L15 6.42v5.257L9.192 14h-.457L1 9.58V4.323z"/>
+  <path fill="#01509E" fill-rule="evenodd" d="M14 7v4l-5 2V9z"/>
+  <path fill="#EBEBEB" fill-rule="evenodd" d="m10 9.677 3-1.2V10l-3 1.2z"/>
+  <path fill="#01509E" fill-rule="evenodd" d="m2 5 7 4v4L2 9z"/>
+  <path fill="#01509E" fill-rule="evenodd" d="M14 7 9 9 2 5l5-2z"/>
+  <path fill="#EBEBEB" fill-rule="evenodd" d="M11.706 6.841 6.923 4.108 4.294 5.159l4.783 2.734 2.63-1.052"/>
+  <path fill="#F4F4F4" fill-rule="evenodd" d="M9 11.5C9 13.984 6.984 16 4.5 16A4.502 4.502 0 0 1 0 11.5C0 9.016 2.016 7 4.5 7S9 9.016 9 11.5"/>
+  <path fill="#313131" fill-rule="evenodd" d="M4.5 8a3.5 3.5 0 1 0 0 7 3.5 3.5 0 1 0 0-7"/>
+  <path fill="#EBEBEB" fill-rule="evenodd" d="M3 13.488V13h-.488c.139.185.302.348.488.488m0-3.977c-.186.14-.349.303-.488.489H3m2 3.949V13H4v.949a2.494 2.494 0 0 0 1 0M6.488 13H6v.488c.186-.14.349-.303.488-.488M4 12h1v-1H4m-1 0h-.949a2.494 2.494 0 0 0 0 1H3m2-2.949a2.423 2.423 0 0 0-1 0V10h1m1-.489V10h.488A2.431 2.431 0 0 0 6 9.511M6 11h.949a2.494 2.494 0 0 1 0 1H6z"/>
+</svg>

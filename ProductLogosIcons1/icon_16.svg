@@ -1,7 +1,20 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 0H0V16H16V0Z" fill="#07C3F2"/>
-<path d="M15 1H1V15H15V1Z" fill="black"/>
-<path d="M9 12H3V13H9V12Z" fill="white"/>
-<path d="M8.19995 6.1C8.19995 4.4 9.49995 3 11.3 3C12.4 3 13.1 3.4 13.7 3.9L12.9 4.9C12.4 4.5 11.9 4.2 11.3 4.2C10.3 4.2 9.59995 5 9.59995 6.1C9.59995 7.1 10.3 8 11.3 8C12 8 12.4 7.7 12.9 7.3L13.7 8.1C13.1 8.8 12.4 9.2 11.3 9.2C9.49995 9.2 8.19995 7.8 8.19995 6.1Z" fill="white"/>
-<path d="M4.8999 3.1001L2.3999 9.1001H3.6999L4.1999 7.8001H6.6999L7.2999 9.1001H8.6999L6.0999 3.1001H4.8999ZM4.6999 6.6001L5.4999 4.7001L6.2999 6.6001H4.6999Z" fill="white"/>
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path fill="url(#a)" d="M16 0H0v16h16z"/>
+  <path d="M15 1H1v14h14z"/>
+  <path fill="#fff" d="M7 12H3v1h4z"/>
+  <path fill="#12B81B" d="M16 8H8v8h8z"/>
+  <path fill="url(#b)" d="M16 8H8v8h8z"/>
+  <path fill="#fff" d="m14 12-4 2.5v-5z"/>
+  <defs>
+    <linearGradient id="a" x1="-.16" x2="16.02" y1="16.05" y2=".09" gradientUnits="userSpaceOnUse">
+      <stop  offset="0" stop-color="#FF9419"/>
+      <stop offset=".43" stop-color="#FF021D"/>
+      <stop offset=".99" stop-color="#E600FF"/>
+    </linearGradient>
+    <linearGradient id="b" x1="12" x2="12" y1="8" y2="16" gradientUnits="userSpaceOnUse">
+      <stop  offset="0" stop-color="#15BF13"/>
+      <stop offset="1" stop-color="#039A3E"/>
+    </linearGradient>
+  </defs>
 </svg>

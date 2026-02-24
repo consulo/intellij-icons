@@ -1,0 +1,30 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="8" x2="8" y1=".08" y2="16.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#566980"/>
+      <stop offset="1" stop-color="#2d3641"/>
+    </linearGradient>
+    <linearGradient id="b" x1="8" x2="8" y1="1" y2="15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dfefff"/>
+    </linearGradient>
+    <linearGradient id="c" x1="8" x2="8" y1="2.25" y2="14.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c1d8f2"/>
+      <stop offset="1" stop-color="#dfefff"/>
+    </linearGradient>
+    <linearGradient id="d" x1="8" x2="8" y1="4" y2="14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fffbdf"/>
+    </linearGradient>
+    <linearGradient id="e" x1="8" x2="8" y1="4.99" y2="12.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b400e"/>
+      <stop offset="1" stop-color="#6d2020"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" fill-rule="evenodd" d="M1 16V5c0-2.76 2.24-5 5-5h9v16z"/>
+  <path fill="url(#b)" fill-rule="evenodd" d="M6 1C3.79 1 2 2.79 2 5v10h12V1z"/>
+  <path fill="url(#c)" fill-rule="evenodd" d="M3 14V5c0-1.65 1.35-3 3-3h7v12z"/>
+  <path fill="url(#d)" fill-rule="evenodd" d="M8 4H3.18c-.11.31-.18.65-.18 1v.41l.83.83C3.31 7.03 3 7.98 3 8.99c0 2.76 2.24 5 5 5s5-2.24 5-5-2.24-5-5-5Z"/>
+  <path fill="url(#e)" fill-rule="evenodd" d="m5.09 9.71-.93.37c-.1-.35-.17-.7-.17-1.08s.07-.74.17-1.08l.93.37C5.03 8.52 5 8.75 5 9s.04.48.09.71m5.43-2.33.91-.41c-.34-.58-.82-1.06-1.4-1.4l-.41.91c.36.23.67.54.91.91Zm-5.95-.41.91.41q.165-.27.39-.48L7 8.03v-3H4L5.17 6.2c-.23.23-.43.49-.6.77m.91 3.65-.91.41c.34.58.82 1.06 1.4 1.4l.41-.91c-.36-.23-.67-.54-.91-.91Zm6.35-2.7-.93.37c.06.23.09.46.09.71s-.04.48-.09.71l.93.37c.1-.35.17-.7.17-1.08s-.07-.74-.17-1.08m-2.21 3.6.41.91c.58-.34 1.06-.82 1.4-1.4l-.91-.41c-.23.36-.54.67-.91.91ZM8 12c-.25 0-.48-.04-.71-.09l-.37.93c.35.1.7.17 1.08.17s.74-.07 1.08-.17l-.37-.93c-.23.06-.46.09-.71.09"/>
+</svg>

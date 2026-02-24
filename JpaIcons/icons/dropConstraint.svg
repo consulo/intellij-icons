@@ -1,0 +1,20 @@
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 10H4V12H2V10Z" fill="#362F8A"/>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+          d="M9.543 12.172L14.493 7.222L15.907 8.636L10.957 13.586L9.543 15L5.3 10.758L6.714 9.343L9.543 12.172Z" fill="#362F8A"/>
+    <path
+      d="M2.82843 1.17157L1.41421 2.58579L2.82843 4L1.41421 5.41421L2.82843 6.82843L4.24264 5.41421L5.65685 6.82843L7.07107 5.41421L5.65685 4L7.07107 2.58579L5.65685 1.17157L4.24264 2.58579L2.82843 1.17157Z"
+      fill="#FF0C3E"/>
+    <path d="M7.07106 4H14V2H7.89949L8.48527 2.58579L7.07106 4Z" fill="#362F8A"/>
+    <path d="M2 7.41421V8H2.58579L2 7.41421Z" fill="#362F8A"/>
+    <path d="M3.07107 8H5.41421L4.24264 6.82843L3.07107 8Z" fill="#362F8A"/>
+    <path d="M5.89949 8H11V6H7.89949L5.89949 8Z" fill="#362F8A"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="16" height="16" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

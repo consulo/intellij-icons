@@ -1,0 +1,17 @@
+<!-- Copyright © 2000–2024 JetBrains s.r.o. -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="8" x2="8" y1="15" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d3641"/>
+      <stop offset="1" stop-color="#566980"/>
+    </linearGradient>
+    <linearGradient id="b" x1="8" x2="8" y1="14" y2="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a5b1bc"/>
+      <stop offset="1" stop-color="#dfefff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="10" x2="10" y1="3.02" y2="12.88"/>
+  </defs>
+  <path fill="url(#a)" fill-rule="evenodd" d="M7.9 1 2 2.16v6.73c.21 2.31 2.08 4.33 5.57 6.01l.21.1h.46l.21-.1c3.48-1.68 5.35-3.7 5.57-6.1V2.16L8.12 1h-.2Z"/>
+  <path fill="url(#b)" fill-rule="evenodd" d="M3 8.8c.18 1.95 1.84 3.68 5 5.2 3.16-1.52 4.82-3.26 5-5.2V2.98L8 2l-5 .98v5.81Z"/>
+  <path fill="url(#c)" fill-rule="evenodd" d="M8 3.02v9.86c2.52-1.29 3.87-2.69 4-4.09V3.8l-4-.79Z"/>
+</svg>
